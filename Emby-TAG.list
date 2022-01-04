@@ -1,3 +1,3 @@
 # > Emby-TAG
 DOMAIN-SUFFIX,emby.riches.cloud
-IP-CIDR,198.204.247.0/24,no-resolve
+IP-CIDR,198.204.247.154/32,no-resolve
